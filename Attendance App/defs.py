@@ -1,0 +1,1 @@
+default_font = ("Corbel", "12")
